@@ -12,13 +12,21 @@ Status_Deck is a fully custom-designed macro pad developed using the Seeed XIAO 
 #Bill of Materials (BOM)
 
 #| Item | Quantity | Description |
-#|------|----------|-------------|
+
 #| Seeed XIAO RP2040 | 1 | Microcontroller |
+
 #| MX-style switches | 6 | Mechanical key switches |
+
 #| 1N4148 Diodes | 6 | Matrix isolation |
+
 #| Rotary Encoder | 2 | With push-button functionality |
+
 #| 0.96" I²C OLED | 1 | SSD1306 display |
+
 #| Keycaps | 6 | Compatible with MX switches |
+
 #| Custom PCB | 1 | Designed in KiCad |
+
 #| 3D Printed Case | 1 | Custom enclosure |
+
 #| Screws / Standoffs | As needed | PCB mounting hardware |
